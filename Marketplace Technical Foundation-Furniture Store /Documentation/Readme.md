@@ -84,8 +84,8 @@ This project is a simple e-commerce website for buying furniture online. It lets
 ### Products  
 | Field | Type   | Description         |  
 |-------|--------|---------------------|  
-| id    | Int    | Unique product ID   |  
+| id    | String | Unique product ID   |  
 | name  | String | Product name        |  
-| price | Float  | Product price       |  
+| price | Number | Product price       |  
 
 
